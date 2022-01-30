@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: ChrononDB
 show_downloads: true
+github:
+    repository_url: https://github.com/ChrononDB/core
+    zip_url: https://github.com/ChrononDB/core/zipball/master
+    tar_url: https://github.com/ChrononDB/core/tarball/master
