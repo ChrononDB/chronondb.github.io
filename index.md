@@ -1,8 +1,16 @@
-Something will be here soon.... 
+More data and guides will be here soon.... 
 
-For more information - see <a href="https://github.com/ChrononDB/core/blob/master/README.md">README</a>
+What al this about - [**README**](https://github.com/ChrononDB/core/blob/master/README.md)
 
-For design documentation - see <a href="https://github.com/ChrononDB/core/tree/master/docs">Notes</a>
+Funny story on the origin of this project - [**README#history**](https://github.com/ChrononDB/core/blob/master/README.md#history)
 
-For the funny story on this project - see <a href="https://github.com/ChrononDB/core/blob/master/README.md#history">README#history</a>
+Readiness - [**README#readiness**](https://github.com/ChrononDB/core/blob/master/README.md#readiness)
+
+Performance - [**README#performance**](https://github.com/ChrononDB/core/blob/master/README.md#performance)
+
+Artifacts - [**RELEASES**](https://github.com/ChrononDB/core/releases/) 
+
+Design documentation and plans - [**Chronon Design Notes**](https://github.com/ChrononDB/core/blob/master/docs/ChrononDB%20Notes.pdf)
+
+
 
